@@ -4,7 +4,7 @@ Welcome to the page where all the code that is used in UCLA's SPINLab is publish
 
 Description of programs in the repository:
 
-magnetic_field.py - This code takes an input file, which contains the strengths of the Bx, By, Bz, and Bmod fields and the time at which the data was taken at, and plots time against each of the field strengths (magnetic_field_plot.png). In addition, this code also takes the averages of Bx, By, Bz, and Bmod fields and outputs them to a separate file (b_average.txt)
+magnetic_field.py - This code takes an input file, which contains the strengths of the Bx, By, Bz, and Bmod fields and the time at which the data was taken at, and plots time against each of the field strengths (magnetic_field_plot.png). In addition, this code also takes the averages of Bx, By, Bz, and Bmod fields and outputs them to a separate file (b_average.txt). WHY THIS CODE IS IMPORTANT: It is used for measuring the three-axis magnetic field in our experiments (see link below for more on what SPINLab does). We also use this code to cancel out the background field, so that we know what magnetic field we have generated in our experiments.
 
 data.txt - the input file that is mentioned in the magnetic_field.py description.
 
