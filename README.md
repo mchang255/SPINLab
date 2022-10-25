@@ -1,6 +1,6 @@
 # SPINLab
 
-Welcome to the page where all the code that is used in SPINLab is published!
+Welcome to the page where all the code that is used in UCLA's SPINLab is published!
 
 Description of programs in the repository:
 
