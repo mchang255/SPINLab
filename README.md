@@ -9,3 +9,5 @@ magnetic_field.py - This code takes an input file, which contains the strengths 
 data.txt - the input file that is mentioned in the magnetic_field.py description.
 
 To run all Python programs, open a terminal window and type "python name_of_program.py name_of_input_file.txt."
+
+For more info: https://spinlab.epss.ucla.edu/
